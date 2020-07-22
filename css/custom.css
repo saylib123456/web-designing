@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@600&family=Roboto+Condensed:wght@300&display=swap');
+header img{
+    width: 100px;
+    border-radius: 150px;
+}
+.navbar{
+    background-color: crimson !important;
+}
+h5{
+    color:black;
+    font-family:sofia ;
+    font-size: 70px;
+}
+.para{
+    color:yellowgreen;
+    font-size: 40px;
+}
+.heading{
+    font-family: 'Grenze Gotisch',cursive;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.image{
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.custom-card{
+    padding:0px;
+}
+.card-img-top{
+    height:300px;
+}
+.lo{
+    width: 100px;
+}
+.fa-facebook {
+    color: #3b5998;
+    text-align: center;
+
+}
+
+.fa-google-plus-g {
+    color: #dd4b39;
+
+}

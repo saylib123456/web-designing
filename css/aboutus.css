@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@600&family=Roboto+Condensed:wght@300&display=swap');
+header img {
+    width: 100px;
+    border-radius: 150px;
+}
+.navbar {
+    background-color: crimson !important;
+}
+.heading {
+    font-family: 'Grenze Gotisch', cursive;
+}
+.image {
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.jumbotron{
+    background-image: url("https://images.pexels.com/photos/60217/pexels-photo-60217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    color:white;
+}
+.rounded-circle{
+    border-radius: 100px;
+}
+.card{
+    border: none;
+}
+.lo {
+    width: 100px;
+}
+.iframe-container{
+    position: relative;
+    width:100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+.iframe-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.fa-facebook {
+    color: #3b5998;
+    text-align: center;
+
+}
+
+.fa-google-plus-g {
+    color: #dd4b39;
+
+}

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@600&family=Roboto+Condensed:wght@300&display=swap');
+
+header img {
+    width: 100px;
+    border-radius: 150px;
+}
+
+.navbar {
+    background-color: crimson !important;
+}
+
+.heading {
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+.lo {
+    width: 100px;
+}
+.card{
+    border: solid;
+}
+.imgs{
+    border:none;
+    padding: 0px;
+}
+.fa-facebook {
+    color: #3b5998;
+    text-align: center;
+}
+
+.fa-google-plus-g {
+    color: #dd4b39;
+}
+
+
